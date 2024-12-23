@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Easy Life\source\repos\homework2\Source.cpp(5,9): warning C4615: #pragma warning: unknown user warning type
+C:\Users\Easy Life\source\repos\homework2\Source.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Easy Life\source\repos\homework2\Source.cpp(24,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Easy Life\source\repos\homework2\Source.cpp(32,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Easy Life\source\repos\homework2\Source.cpp(43,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Easy Life\source\repos\homework2\Source.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
+  homework2.vcxproj -> C:\Users\Easy Life\source\repos\homework2\Debug\homework2.exe
